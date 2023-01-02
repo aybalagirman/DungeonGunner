@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2708e4084c4a1534ba646096300f778c, type: 3}
+  m_Name: Room_CorridorEW_MyRooms_Light_2
+  m_EditorClassIdentifier: 
+  guid: 6c09feac273ca409584f7d91c98d3881
+  prefab: {fileID: 1428031955319026318, guid: b3c072f85cd464cf191ec0b69a6a7d9e, type: 3}
+  previousPrefab: {fileID: 1428031955319026318, guid: b3c072f85cd464cf191ec0b69a6a7d9e, type: 3}
+  roomNodeType: {fileID: 0}
+  lowerBounds: {x: -14, y: -11}
+  upperBounds: {x: 24, y: 11}
+  doorwayList:
+  - position: {x: -14, y: -9}
+    orientation: 1
+    doorPrefab: {fileID: 0}
+    doorwayStartCopyPosition: {x: 0, y: 0}
+    doorwayCopyTileWidth: 0
+    doorwayCopyTileHeight: 0
+    isConnected: 0
+    isUnavailable: 0
+  - position: {x: 24, y: 6}
+    orientation: 3
+    doorPrefab: {fileID: 0}
+    doorwayStartCopyPosition: {x: 0, y: 0}
+    doorwayCopyTileWidth: 0
+    doorwayCopyTileHeight: 0
+    isConnected: 0
+    isUnavailable: 0
+  spawnPositionArray:
+  - {x: -11, y: -9}
