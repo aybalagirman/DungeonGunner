@@ -482,12 +482,9 @@ public class DungeonBuilder : SingletonMonobehaviour<DungeonBuilder>
             return roomNodeGraphList[UnityEngine.Random.Range(0, roomNodeGraphList.Count)];
         }
 
-        else
-        {
-            Debug.Log("no room node graphs in the list");
+        Debug.Log("no room node graphs in the list");
 
-            return null;
-        }
+        return null;
     }
 
     private List<Doorway> CopyDoorwayList(List<Doorway> oldDoorwayList)
