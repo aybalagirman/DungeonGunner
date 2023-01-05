@@ -207,7 +207,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 968039be0909b4b2ea2e131b5224a9d3, type: 2}
   - {fileID: 11400000, guid: 33002c5a68a6d4b3286b00ef91d0d191, type: 2}
   - {fileID: 11400000, guid: 447e32c8d952e48ca8749c77bded621a, type: 2}
-  currentDungeonLevelListIndex: 0
+  currentDungeonLevelListIndex: 5
   gameState: 0
 --- !u!4 &71771545
 Transform:
@@ -270,7 +270,7 @@ MonoBehaviour:
     ModeOverride: 1
     LensShift: {x: 0, y: 0}
     GateFit: 2
-    m_SensorSize: {x: 2.3850932, y: 1}
+    m_SensorSize: {x: 2.2857144, y: 1}
   m_Transitions:
     m_BlendHint: 0
     m_InheritPosition: 0
