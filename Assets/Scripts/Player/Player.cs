@@ -5,6 +5,7 @@ using UnityEngine.Rendering;
 
 #region REQUIRE COMPONENTS
 [RequireComponent(typeof(SortingGroup))]
+[RequireComponent(typeof(Health))]
 [RequireComponent(typeof(SpriteRenderer))]
 [RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(BoxCollider2D))]
