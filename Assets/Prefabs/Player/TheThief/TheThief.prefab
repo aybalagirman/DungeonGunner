@@ -100,6 +100,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3811880842990446992, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
+      propertyPath: m_Size.x
+      value: 1.014
+      objectReference: {fileID: 0}
+    - target: {fileID: 3811880842990446992, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
       propertyPath: m_Size.y
       value: 0.745
       objectReference: {fileID: 0}
@@ -883,6 +887,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: TheThief
       objectReference: {fileID: 0}
+    - target: {fileID: 3811880843388526648, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3811880843388526654, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
       propertyPath: m_SortingOrder
       value: 5
@@ -900,6 +908,14 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3811880843472295135, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9222012242711812157, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9222012242711812157, guid: 258fe0a9c3f4f4a03b877b1d96079cfa, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
